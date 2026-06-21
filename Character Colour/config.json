@@ -1,0 +1,129 @@
+{
+    "SBeppi": {
+        "color": "#4c1895",
+        "aliases": [
+            "Joseph"
+        ]
+    },
+    "Karth": {
+        "color": "#38761d",
+        "aliases": []
+    },
+    "Danessa": {
+        "color": "#b45f06",
+        "aliases": []
+    },
+    "Arahya": {
+        "color": "#00ffff",
+        "aliases": []
+    },
+    "Fred": {
+        "color": "#ffff00",
+        "aliases": []
+    },
+    "Xia": {
+        "color": "#674ea7",
+        "aliases": []
+    },
+    "Aya": {
+        "color": "#274e13",
+        "aliases": []
+    },
+    "Eva": {
+        "color": "#134f5c",
+        "aliases": []
+    },
+    "Metira": {
+        "color": "#990000",
+        "aliases": []
+    },
+    "Vaniquel": {
+        "color": "#434343",
+        "aliases": []
+    },
+    "Zispei": {
+        "color": "#8e7cc3",
+        "aliases": []
+    },
+    "Fido": {
+        "color": "#6d9eeb",
+        "aliases": [
+            "Prisoner #56927",
+            "Kyujin"
+        ]
+    },
+    "Inmates group": {
+        "color": "#b45f06",
+        "aliases": []
+    },
+    "Nexer": {
+        "color": "#38761d",
+        "aliases": []
+    },
+    "Scientist team(including tech nerds)": {
+        "color": "#7f6000",
+        "aliases": [
+            "Sci 1",
+            "Sci 2",
+            "Sci 3",
+            "Sci 4",
+            "Sci 5",
+            "Sci 6",
+            "Sci 7",
+            "Sci 8"
+        ]
+    },
+    "Emerald": {
+        "color": "#00ff00",
+        "aliases": []
+    },
+    "Maya": {
+        "color": "#004815",
+        "aliases": []
+    },
+    "Ming": {
+        "color": "#434343",
+        "aliases": []
+    },
+    "AI": {
+        "color": "#d5a6bd",
+        "aliases": [
+            "Buddi AI",
+            "Buddi"
+        ]
+    },
+    "Unknown/Unnamed": {
+        "color": "#741b47",
+        "aliases": []
+    },
+    "Robert Pilton": {
+        "color": "#6a6a1e",
+        "aliases": []
+    },
+    "Guard": {
+        "color": "#ff0000",
+        "aliases": [
+            "G1",
+            "G2",
+            "G3",
+            "G4",
+            "G5",
+            "G6",
+            "G7",
+            "G8",
+            "G9"
+        ]
+    },
+    "Kerra": {
+        "color": "#005636",
+        "aliases": [
+            "K18"
+        ]
+    },
+    "Voss": {
+        "color": "#ff7c7e",
+        "aliases": [
+            "K17"
+        ]
+    }
+}
